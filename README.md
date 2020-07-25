@@ -16,7 +16,7 @@ aboutMe :: struct {
 main :: func(): void {
   ethan :: aboutMe = {
     languages: ["C", "C#", "Python"],
-    hobbies: ["Coding", "Gaming", "Talking"],
+    hobbies: ["Coding", "Gaming"],
   };
 
   println "Languages I Know: ${ethan.languages}";
@@ -59,7 +59,6 @@ main :: func(): void {
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FaberSanZ&hide=stars,commits,prs,issues,contribs])
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaberSanZ&hide=csharp,javascript,css)]
 
