@@ -30,10 +30,6 @@ main :: func(): void {
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
@@ -43,10 +39,6 @@ main :: func(): void {
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-      </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
@@ -69,7 +61,7 @@ main :: func(): void {
 ![github stats](https://github-readme-stats.vercel.app/api?username=FaberSanZ&hide=stars,commits,prs,issues,contribs])
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaberSanZ&hide=csharp,html,css)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaberSanZ&hide=csharp,javascript,css)]
 
 
 
