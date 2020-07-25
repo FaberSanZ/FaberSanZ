@@ -2,7 +2,7 @@
 
 # Hello, Im Faber!
 
-[![Twitter:](https://img.shields.io/twitter/follow/FaberSanZ?style=social)](https://twitter.com/Zeckoxe)
+[![Twitter:](https://img.shields.io/twitter/follow/Zeckoxe?style=social)](https://twitter.com/Zeckoxe)
 [![Linkedin:](https://img.shields.io/badge/-FaberSanZ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faber-leonardo-0642881a5)](https://www.linkedin.com/in/faber-leonardo-0642881a5/)
 [![GitHub](https://img.shields.io/github/followers/FaberSanZ?label=follow&style=social)](https://github.com/FaberSanZ)
 
