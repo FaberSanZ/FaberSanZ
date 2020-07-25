@@ -58,11 +58,9 @@ main :: func(): void {
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=FaberSanZ&repo=github-readme-stats" />
-</a>
+![github stats](https://github-readme-stats.vercel.app/api?username=FaberSanZ&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaberSanZ&hide=csharp,javascript,css)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaberSanZ)
 
 
 
