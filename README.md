@@ -2,6 +2,11 @@
 
 # Hello, Im Faber!
 
+[![Twitter:](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/Zeckoxe)
+[![Linkedin:](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/faber-leonardo-0642881a5/)
+[![GitHub](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/FaberSanZ)
+
+
 ## 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 .NET
 ## 𝗜 ❤️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
