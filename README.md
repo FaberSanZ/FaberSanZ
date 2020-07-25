@@ -44,7 +44,7 @@ main :: func(): void {
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio.svg">
       </td>
       <td width="25%" align="center">
