@@ -10,22 +10,34 @@
 ## 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 .NET
 ## 𝗜 ❤️ 𝗟𝗼𝘄 𝗟𝗲𝘃𝗲𝗹 𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴!
 
-```julia
-module main
+```csharp
 
-aboutMe :: struct {
-  languages :: string[];
-  hobbies :: string[];
-}
+using System;
+namespace FaberSanZ
+{
+    public class AboutMe
+    {
+        public string[] Languages;
+        public string[] Hobbies;
+    }
+    
+    internal class Program
+    {
+        private static void Main(string[] args)
+        {
+            AboutMe ethan = new AboutMe
+            {
+                Languages = new string[] { "C#", "Python", "Type Script", },
+                Hobbies = new string[] { "Coding", "Gaming", },
+            };
 
-main :: func(): void {
-  ethan :: aboutMe = {
-    languages: ["C", "C#", "Python"],
-    hobbies: ["Coding", "Gaming"],
-  };
+            foreach (string language in ethan.Languages)
+                Console.WriteLine($"Languages I Know: {language}");
 
-  println "Languages I Know: ${ethan.languages}";
-  println "My Hobbies: ${ethan.hobbies}";
+            foreach (string hobbie in ethan.Hobbies)
+                Console.WriteLine($"My Hobbie: {hobbie}");
+        }
+    }
 }
 ```
 
@@ -42,7 +54,7 @@ main :: func(): void {
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-            <td width="25%" align="center">
+      <td width="25%" align="center">
         <span>Type Script</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
