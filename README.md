@@ -66,7 +66,10 @@ main :: func(): void {
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![Faber GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaberSanZ&hide=["stars"]&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=FaberSanZ&hide=stars,commits,prs,issues,contribs])
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaberSanZ&hide=csharp,html,css)]
 
 
 
