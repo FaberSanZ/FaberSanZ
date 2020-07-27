@@ -28,7 +28,7 @@ namespace FaberSanZ
         {
             AboutMe ethan = new AboutMe
             {
-                Languages = new string[] { "C#", "Python", "Type Script", },
+                Languages = new string[] { "C#", "Python", "TypeScript", },
                 Hobbies = new string[] { "Coding", "Gaming", },
             };
 
