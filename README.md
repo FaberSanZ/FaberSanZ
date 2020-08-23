@@ -8,7 +8,7 @@
 
 
 ## 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 .NET
-## 𝗜 ❤️ Graphics Programming and Compilers!
+## 𝗜 ❤️ Graphics Programming, ML and Compilers!
 
 ```csharp
 
@@ -79,7 +79,7 @@ namespace FaberSanZ
 
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- 💻 [ZeckLyn Programming Language](https://github.com/FaberSanZ/ZeckLyn)
+- 💻 [L# Programming Language](https://github.com/FaberSanZ/ZeckLyn)
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
