@@ -8,7 +8,7 @@
 
 
 ## 𝗜 𝗮𝗺 𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗲𝗿 𝗶𝗻 .NET
-## 𝗜 ❤️ Graphics Programming, ML and Compilers!
+## 𝗜 ❤️ Graphics Programming, AI/ML and Compilers!
 
 ```csharp
 
