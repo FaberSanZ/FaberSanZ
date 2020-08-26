@@ -59,6 +59,10 @@ namespace FaberSanZ
         <span>Type Script</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Vulkan</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vulkan.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -72,6 +76,10 @@ namespace FaberSanZ
       <td width="25%" align="center">
         <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Microsoft Azure</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
       </td>
     </tr>
   </tbody>
