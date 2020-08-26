@@ -28,7 +28,7 @@ namespace FaberSanZ
         {
             AboutMe ethan = new AboutMe
             {
-                Languages = new string[] { "C#", "Python", "TypeScript", },
+                Languages = new string[] { "C#", "C++", "TypeScript", },
                 Hobbies = new string[] { "Coding", "Gaming", },
             };
 
@@ -52,8 +52,8 @@ namespace FaberSanZ
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
       <td width="25%" align="center">
-        <span>Python</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <span>C++</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="25%" align="center">
         <span>Type Script</span><br><br><br>
