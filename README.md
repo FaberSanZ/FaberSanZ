@@ -74,7 +74,7 @@ namespace FaberSanZ
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <span>Microsoft Azure</span><br><br><br>
+        <span>Azure</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/azure.svg">
       </td>
       <td width="25%" align="center">
