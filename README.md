@@ -26,16 +26,16 @@ namespace FaberSanZ
     {
         private static void Main(string[] args)
         {
-            AboutMe ethan = new AboutMe
+            AboutMe faber = new AboutMe
             {
                 Languages = new string[] { "C#", "C++", "TypeScript", },
                 Hobbies = new string[] { "Coding", "Gaming", },
             };
 
-            foreach (string language in ethan.Languages)
+            foreach (string language in faber.Languages)
                 Console.WriteLine($"Languages I Know: {language}");
 
-            foreach (string hobbie in ethan.Hobbies)
+            foreach (string hobbie in faber.Hobbies)
                 Console.WriteLine($"My Hobbie: {hobbie}");
         }
     }
@@ -88,6 +88,7 @@ namespace FaberSanZ
 # 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - 💻 [L# Programming Language](https://github.com/FaberSanZ/ZeckLyn)
+- 💻 [Zeckoxe Vulkan Game Engine](https://github.com/FaberSanZ/Zeckoxe-Engine)
 
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
