@@ -20,6 +20,7 @@ namespace FaberSanZ
     {
         public string[] Languages;
         public string[] Hobbies;
+        public string[] Data;
     }
     
     internal class Program
@@ -30,6 +31,7 @@ namespace FaberSanZ
             {
                 Languages = new string[] { "C#", "C++", "TypeScript", },
                 Hobbies = new string[] { "Coding", "Gaming", },
+                Data = new string[] { "Colombia", "20 years old", },
             };
 
             foreach (string language in faber.Languages)
@@ -37,6 +39,9 @@ namespace FaberSanZ
 
             foreach (string hobbie in faber.Hobbies)
                 Console.WriteLine($"My Hobbie: {hobbie}");
+                
+            foreach (string d in faber.Data)
+                Console.WriteLine($"{d}");
         }
     }
 }
