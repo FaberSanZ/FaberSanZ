@@ -29,9 +29,9 @@ namespace FaberSanZ
         {
             AboutMe faber = new AboutMe
             {
-                Languages = new string[] { "C#", "C++", "TypeScript", },
-                Hobbies = new string[] { "Coding", "Gaming", },
-                Data = new string[] { "Colombia", "20 years old", },
+                Languages = new string[] { "C#", "C++", "TypeScript" },
+                Hobbies = new string[] { "Coding", "Gaming" },
+                Data = new string[] { "Colombia", "20 years old", "Student" },
             };
 
             foreach (string language in faber.Languages)
