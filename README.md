@@ -29,7 +29,7 @@ namespace FaberSanZ
         {
             AboutMe faber = new AboutMe
             {
-                Languages = new string[] { "C#", "C++", "TypeScript" },
+                Languages = new string[] { "C#", "C++", "TypeScript", "Python" },
                 Hobbies = new string[] { "Coding", "Gaming" },
                 Data = new string[] { "Colombia", "20 years old", "Student" },
             };
