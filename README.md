@@ -2,7 +2,7 @@
 
 # Hello, Im Faber!
 
-[![Twitter:](https://img.shields.io/twitter/follow/Zeckoxe?style=social)](https://twitter.com/Zeckoxe)
+[![Twitter:](https://img.shields.io/twitter/follow/FaberSan_Z?style=social)](https://twitter.com/FaberSan_Z)
 [![Linkedin:](https://img.shields.io/badge/-FaberSanZ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faber-leonardo-0642881a5)](https://www.linkedin.com/in/faber-leonardo-0642881a5/)
 [![GitHub](https://img.shields.io/github/followers/FaberSanZ?label=follow&style=social)](https://github.com/FaberSanZ)
 
@@ -31,7 +31,7 @@ namespace FaberSanZ
             {
                 Languages = new string[] { "C#", "C++", "TypeScript", "Python" },
                 Hobbies = new string[] { "Coding", "Gaming" },
-                Data = new string[] { "Colombia", "20 years old", "Student" },
+                Data = new string[] { "Colombia", "21 years old", "Student" },
             };
 
             foreach (string language in faber.Languages)
