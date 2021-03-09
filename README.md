@@ -31,7 +31,7 @@ namespace FaberSanZ
             {
                 Languages = new string[] { "C#", "C++", "TypeScript", "Python" },
                 Hobbies = new string[] { "Coding", "Gaming" },
-                Data = new string[] { "Colombia", "21 years old", "Student" },
+                Data = new string[] { "Colombia", "21 years old" },
             };
 
             foreach (string language in faber.Languages)
