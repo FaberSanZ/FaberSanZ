@@ -98,8 +98,6 @@ namespace FaberSanZ
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
-![github stats](https://github-readme-stats.vercel.app/api?username=FaberSanZ&show_icons=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaberSanZ)
 
 
