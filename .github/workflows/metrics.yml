@@ -10,17 +10,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: FaberSanZ/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
 
 
           # Options
-          user: fabersanz
+          user: FaberSanZ
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/Bogota
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_habits: yes
@@ -35,3 +34,5 @@ jobs:
           plugin_licenses: yes
           plugin_licenses_legal: yes
           plugin_lines: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
