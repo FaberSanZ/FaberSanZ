@@ -91,18 +91,8 @@ namespace FaberSanZ
   </tbody>
 </table>
 
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
 
-- 💻 [L# Programming Language](https://github.com/FaberSanZ/ZeckLyn)
-- 💻 [Vultaik Cross-Platform Rendering](https://github.com/FaberSanZ/Vultaik)
-
-
-# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
-
-![github stats](https://github-readme-stats.vercel.app/api?username=FaberSanZ&show_icons=true&count_private=true)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaberSanZ)
 
 
 
