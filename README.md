@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello, Im Faber!
 
 [![Twitter:](https://img.shields.io/twitter/follow/FaberSan_Z?style=social)](https://twitter.com/FaberSan_Z)
@@ -31,6 +29,7 @@
     </tr>
   </tbody>
 </table>
+</br>
 
 ![Metrics](https://github.com/FaberSanZ/FaberSanZ/blob/master/github-metrics.svg)
 
