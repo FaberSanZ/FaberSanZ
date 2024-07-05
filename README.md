@@ -6,28 +6,6 @@
 
 
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>C#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>C++</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Vulkan</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vulkan.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-</br>
-
 ![Metrics](https://github.com/FaberSanZ/FaberSanZ/blob/master/github-metrics.svg)
 
 
